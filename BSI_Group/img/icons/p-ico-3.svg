@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="86px" height="102px" viewBox="0 0 86 102" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 15</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,6.02331952 C0,4.3631084 1.34290407,3.01724138 3.00551698,3.01724138 L33.2075472,3.01724138 L44,16.3191282 L44,63.2147421 C44,64.8767855 42.6591426,66.2241379 40.9930191,66.2241379 L3.0069809,66.2241379 C1.34627121,66.2241379 0,64.8747304 0,63.2180598 L0,6.02331952 Z" id="path-1"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.168280118 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M3,3.00607814 C3,1.34586703 4.34721792,0 5.99372622,0 L38.4716981,0 L50,13.3018868 L50,60.1975007 C50,61.8595442 48.6566063,63.2068966 47.0063855,63.2068966 L5.99361448,63.2068966 C4.34028685,63.2068966 3,61.857489 3,60.2008184 L3,3.00607814 Z" id="path-3"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.126160553 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.170318161 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Main_page+search" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="главная/вариант2" transform="translate(-609.000000, -1484.000000)">
+            <g id="Group-15" transform="translate(627.000000, 1500.000000)">
+                <g id="Rectangle-32-Copy">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#F7F5F5" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="Rectangle-32">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="#F7F5F5" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+                <path d="M38.4716981,0 L50,13.3018868 L44.2358491,13.3018868 C41.0523964,13.3018868 38.4716981,10.721377 38.4716981,7.54485028 L38.4716981,0 Z" id="Rectangle-16" fill="#992F30"></path>
+                <ellipse id="Oval-5" fill="#1CD19C" cx="11.4245283" cy="51.8773585" rx="3.99056604" ry="3.99056604"></ellipse>
+                <rect id="Rectangle-17" fill="#FCCF78" x="7" y="7" width="13.3018868" height="3.54716981"></rect>
+                <rect id="Rectangle-17-Copy-5" fill="#1CD19C" x="18" y="50" width="13.3018868" height="3.54716981"></rect>
+                <rect id="Rectangle-17-Copy" fill="#E4E4E4" x="7.43396226" y="13.3018868" width="13.3018868" height="3.54716981"></rect>
+                <rect id="Rectangle-17-Copy-2" fill="#E4E4E4" x="7.43396226" y="23.9433962" width="27.490566" height="3.54716981"></rect>
+                <rect id="Rectangle-17-Copy-3" fill="#E4E4E4" x="7.43396226" y="30.1509434" width="21.2830189" height="3.54716981"></rect>
+                <rect id="Rectangle-17-Copy-4" fill="#E4E4E4" x="7.43396226" y="36.3584906" width="26.6037736" height="3.54716981"></rect>
+                <g id="Group-17" filter="url(#filter-5)" transform="translate(41.000000, 27.000000)" fill="#242833">
+                    <polygon id="Rectangle-33" points="0 4.44444444 2.5 0 5 4.44444444 5 40 0 40"></polygon>
+                    <rect id="Rectangle-35" x="0" y="41" width="5" height="4"></rect>
+                    <rect id="Rectangle-36" x="0" y="39" width="7" height="1"></rect>
+                    <path d="M6,22.5002097 C6,22.2239515 6.23193359,22 6.5,22 L6.5,22 C6.77614237,22 7,22.2275865 7,22.5002097 L7,40 L6,40 L6,22.5002097 Z" id="Rectangle-37"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

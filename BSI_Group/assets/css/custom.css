@@ -1,0 +1,36 @@
+/* custom.scss */
+.home #main-home section.red .b04 {
+	margin-bottom: 70px;
+}
+footer.footer {
+	height: 140px;
+}
+footer #copy {
+	padding-top: 10px;
+	display: inline-block;
+	width: 100%;
+	font-family: "Roboto-Reg", Arial, sans-serif;
+	color: rgba(0, 0, 0, 0.55);
+	padding: 15px;
+	font-size: 13px;
+}
+@media only screen and (max-width: 1140px) {
+	.home #main-home section.red .b04 {
+		margin-bottom: 140px;
+	}
+	footer.footer {
+		height: 200px;
+	}
+}
+@media only screen and (max-width: 685px) {
+	.home #main-home section.red .b04 {
+		margin-bottom: 200px;
+	}
+	footer.footer {
+		height: 355px;
+	}
+	footer #copy {
+		text-align: center;
+	}
+}
+

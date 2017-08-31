@@ -1,0 +1,47 @@
+@import url('http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800');
+/* roboto-regular - latin_cyrillic_latin-ext_cyrillic-ext */
+@font-face {
+  font-family: 'Roboto-Reg';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/roboto-v15/roboto-v15-latin_cyrillic_latin-ext_cyrillic-ext-regular.eot');
+  /* IE9 Compat Modes */
+  src: local('Roboto-Reg'), local('Roboto-Regular'), url('../fonts/roboto-v15/roboto-v15-latin_cyrillic_latin-ext_cyrillic-ext-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/roboto-v15/roboto-v15-latin_cyrillic_latin-ext_cyrillic-ext-regular.woff2') format('woff2'), url('../fonts/roboto-v15/roboto-v15-latin_cyrillic_latin-ext_cyrillic-ext-regular.woff') format('woff'), url('../fonts/roboto-v15/roboto-v15-latin_cyrillic_latin-ext_cyrillic-ext-regular.ttf') format('truetype'), url('../fonts/roboto-v15/roboto-v15-latin_cyrillic_latin-ext_cyrillic-ext-regular.svg#Roboto') format('svg');
+  /* IE6-IE8 */
+  /* Super Modern Browsers */
+  /* Modern Browsers */
+  /* Safari, Android, iOS */
+  /* Legacy iOS */
+}
+/* @font-face {
+ font-family: "Roboto-Regular", sans-serif;
+ src:url('../fonts/Roboto/Roboto-Regular.woff2') format('woff2'), 
+ url("../fonts/Roboto/Roboto-Regular.woff") format("woff"), 
+ url("../fonts/Roboto/Roboto-Regular.ttf") format("truetype");
+ font-weight: normal;
+ font-style: normal;
+ } */
+@font-face {
+  font-family: "Roboto-Thin";
+  src: url('../fonts/Roboto/Roboto-Thin.woff2') format('woff2'), url("../fonts/Roboto/Roboto-Thin.woff") format("woff"), url("../fonts/Roboto/Roboto-Thin.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Roboto-Light";
+  src: url('../fonts/Roboto/Roboto-Light.woff2') format('woff2'), url("../fonts/Roboto/Roboto-Light.woff") format("woff"), url("../fonts/Roboto/Roboto-Light.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Roboto-Bold";
+  src: url('../fonts/Roboto/Roboto-Bold.woff2') format('woff2'), url("../fonts/Roboto/Roboto-Bold.woff") format("woff"), url("../fonts/Roboto/Roboto-Bold.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Tondo-Corp-Regular";
+  src: url("../fonts/Tondo_Corp/woff/Tondo_Corp_Rg.woff") format("woff"), url("../fonts/Tondo_Corp/Tondo_Corp_Rg.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}

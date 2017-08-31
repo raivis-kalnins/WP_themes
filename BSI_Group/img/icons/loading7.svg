@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 25 25" style="enable-background:new 0 0 25 25;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{clip-path:url(#SVGID_4_);}
+</style>
+<title>Artboard</title>
+<desc>Created with Sketch.</desc>
+<g>
+	<defs>
+		<path id="SVGID_1_" d="M12.5,25C5.6,25,0,19.4,0,12.5S5.6,0,12.5,0S25,5.6,25,12.5S19.4,25,12.5,25z M12.5,21
+			c4.7,0,8.5-3.8,8.5-8.5S17.2,4,12.5,4S4,7.8,4,12.5S7.8,21,12.5,21z"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st0">
+		<defs>
+			<rect id="SVGID_3_" width="25" height="25"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st1">
+			<defs>
+				<rect id="SVGID_5_" x="-1" y="-1" width="27" height="27"/>
+			</defs>
+			<clipPath id="SVGID_6_">
+				<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+			</clipPath>
+			<g style="clip-path:url(#SVGID_6_);">
+				
+					<image style="overflow:visible;" width="27" height="27" xlink:href="F5904EF824B8661E.png"  transform="matrix(1 0 0 1 -1 -1)">
+				</image>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
